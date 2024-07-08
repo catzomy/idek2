@@ -1,6 +1,6 @@
 --[[
 
-	my script now - catz_ii (2023)
+	AirHub by Exunys © CC0 1.0 Universal (2023)
 
 	https://github.com/Exunys
 
@@ -22,8 +22,8 @@ getgenv().AirHub = {}
 
 --// Load Modules
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/catzomy/idek2/main/2nd"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/catzomy/idek2/main/3rd"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/AirHub/main/Modules/Aimbot.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/AirHub/main/Modules/Wall%20Hack.lua"))()
 
 --// Variables
 
