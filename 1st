@@ -1,3 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/catzomy/idek2/main/3rd"))()
 --[[
 
 	idek skidded by catz_ii © CC0 1.0 Universal (2023)
@@ -22,7 +23,6 @@ getgenv().AirHub = {}
 
 --// Load Modules
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/catzomy/idek2/main/3rd"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/catzomy/idek2/main/2nd"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/AirHub/main/Modules/Wall%20Hack.lua"))()
 
