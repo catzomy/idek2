@@ -40,10 +40,10 @@ Library.UnloadCallback = function()
 end
 
 local MainFrame = Library:CreateWindow({
-	Name = "AirHub",
+	Name = "my script now",
 	Themeable = {
 		Image = "7059346386",
-		Info = "Made by Exunys\nPowered by Pepsi's UI Library",
+		Info = "skidded by catz_ii\nPowered by Pepsi's UI Library",
 		Credit = false
 	},
 	Background = "",
